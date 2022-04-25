@@ -2,20 +2,17 @@
 
 ## Who We Are
 
-The Lifted Initiative is on a mission to make Web3 more accessible and sustainable.
-
-Learn more at our [website](https://theliftedinitiative.org).
+The Lifted Initiative is on a mission to make Web3 more accessible and sustainable. Learn more at our [website](https://theliftedinitiative.org).
 
 ## What We're Doing
 
-1. Lifted is building a framework of common Web2 and Web3 functionality that can be
-   assembled into a custom layer 1 network. Check it out
-   [here](https://github.com/the-lifted-initiative/many-framework).
-2. Lifted is coordinating a network where folks can build their ideas without prior
-   blockchain experience. Check it out [here](https://theliftedinitiative.org).
-3. Lifted is contributing to the Many Protocol, which enables full interoperability
-   between Many modules and any network built with them. Check it out
-   [here](https://github.com/many-protocol).
+1. Lifted is building a
+   [framework](https://github.com/the-lifted-initiative/many-framework) of Web2 and Web3
+   features for you to assemble a custom layer 1 network.
+2. Lifted is launching a network so you can build your ideas without blockchain
+   experience.
+3. Lifted is contributing to the [Many Protocol](https://github.com/many-protocol),
+   enabling interoperability between Many modules and any network built with them.
 
 ## How You Can Help
 
