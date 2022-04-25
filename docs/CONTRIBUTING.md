@@ -4,7 +4,7 @@ Thank you for taking the time to read this document and for your interest in mak
 decentralized technology more accessible and sustainable. It's an important task and your
 contribution is truly valued.
 
-Anytime people work together, but especially when they care deeply about what they're
+Any time people work together, but especially when they care deeply about what they're
 doing, the possibility of disagreement or even conflict arises. The following guidelines
 are intended to lubricate all that human interaction and make organizing, prioritizing,
 developing, and releasing changes not only fast and painless but hopefully fun.
@@ -59,6 +59,8 @@ is going to look like:
 3. Open a pull request to merge your changes into the upstream repository
 
 Be sure to follow the additional guidance in our pull request template.
+
+## Running Locally
 
 Every project will have its own details on how to set up your local environment to run
 tests and compile or run the code on your machine. The project README file will be an
