@@ -24,8 +24,7 @@ suitable.
 The Lifted Initiative has adopted a [Code of
 Conduct](https://github.com/the-lifted-initiative/.github/blob/main/docs/CODE_OF_CONDUCT.md)
 for all behavior related to the projects within the organization. Please read it before
-you start interacting with the community (but if you're helpful and respectful, you should
-be fine).
+you start interacting with the community.
 
 We are a small team but try our best to respond to all questions and comments. If you've
 pinged us in a comment and we haven't responded, chances are we haven't gotten to it yet.
