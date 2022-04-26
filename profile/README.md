@@ -19,7 +19,7 @@ Learn more at our [website](https://theliftedinitiative.org).
 
 - You can contribute on GitHub. Whether you're spotting typos or refactoring algorithms,
   every bit helps. Most of our repositories have READMEs and our 
-  [contributing guidelines](../docs/CONTRIBUTING.md) can help you get up and running up 
+  [contributing guidelines](https://github.com/the-lifted-initiative/.github/blob/main/docs/CONTRIBUTING.md) can help you get up and running up 
   and running quickly.
 - You can join the conversation. We're slowly expanding our social media presence and
   trying to get people talking about important topics like barriers to entry and improving
