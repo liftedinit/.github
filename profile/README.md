@@ -2,7 +2,8 @@
 
 ## Who We Are
 
-The Lifted Initiative is on a mission to make Web3 more accessible and sustainable. Learn more at our [website](https://theliftedinitiative.org).
+The Lifted Initiative is on a mission to make Web3 more accessible and sustainable. 
+Learn more at our [website](https://theliftedinitiative.org).
 
 ## What We're Doing
 
@@ -17,8 +18,9 @@ The Lifted Initiative is on a mission to make Web3 more accessible and sustainab
 ## How You Can Help
 
 - You can contribute on GitHub. Whether you're spotting typos or refactoring algorithms,
-  every bit helps. Most of our repositories have READMEs and contributing guidelines to
-  help you get up and running up and running quickly.
+  every bit helps. Most of our repositories have READMEs and our 
+  [contributing guidelines](../docs/CONTRIBUTING.md) can help you get up and running up 
+  and running quickly.
 - You can join the conversation. We're slowly expanding our social media presence and
   trying to get people talking about important topics like barriers to entry and improving
   environmental impact. We want your voice!
