@@ -17,10 +17,11 @@ Fixes # (issue)
 <!-- Please describe how you tested your changes. -->
 <!-- Include details of your testing environment and the tests you ran. -->
 
-## Breaking Change
+## Breaking Changes (if applicable)
 
-- [ ] Yes
-- [ ] No
+<!-- Please describe any breaking changes and your plan to handle them. -->
+<!-- A breaking change is a change to this module's API that might cause consumers to fail. -->
+<!-- e.g. modifying required parameters, renaming a public method, changing a response type -->
 
 ## Screenshots (if applicable)
 
