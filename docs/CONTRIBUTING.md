@@ -22,7 +22,7 @@ suitable.
 # Expectations
 
 The Lifted Initiative has adopted a [Code of
-Conduct](https://github.com/the-lifted-initiative/.github/blob/main/docs/CODE_OF_CONDUCT.md)
+Conduct](https://github.com/liftedinit/.github/blob/main/docs/CODE_OF_CONDUCT.md)
 for all behavior related to the projects within the organization. Please read it before
 you start interacting with the community.
 
@@ -68,7 +68,7 @@ important resource for you.
 # Submitting Issues
 
 **IMPORTANT: If you find a security vulnerability, do NOT open an issue. Please email
-community@theliftedinitiative.org instead.**
+community@liftedinit.org instead.**
 
 What's a security vulnerability? If you can access something supposed to be secret, edit
 or delete something that doesn't belong to you, change a feature's behavior in a malicious
@@ -128,9 +128,9 @@ close it to remain focused on active pull requests.
 GitHub isn't the only place you can connect with others about these projects and others
 like them. You can reach The Lifted Initiative in the following channels:
 
-- Twitter: [@the_lifted_init](https://twitter.com/the_lifted_init)
+- Twitter: [@liftedinit](https://twitter.com/liftedinit)
 - LinkedIn: [The Lifted
-  Initiative](https://www.linkedin.com/company/the-lifted-initiative)
+  Initiative](https://www.linkedin.com/company/liftedinit)
 - More coming soon...
 
 Thanks again for being a part of the community.
