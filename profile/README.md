@@ -19,8 +19,7 @@ Learn more at our [website](https://liftedinit.org).
 
 - You can contribute on GitHub. Whether you're spotting typos or refactoring algorithms,
   every bit helps. Most of our repositories have READMEs and our 
-  [contributing guidelines](https://github.com/liftedinit/.github/blob/main/docs/CONTRIBUTING.md) can help you get up and running up 
-  and running quickly.
+  [contributing guidelines](https://github.com/liftedinit/.github/blob/main/docs/CONTRIBUTING.md) can help you get up and running quickly.
 - You can join the conversation. We're slowly expanding our social media presence and
   trying to get people talking about important topics like barriers to entry and improving
   environmental impact. We want your voice!
